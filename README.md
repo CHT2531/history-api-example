@@ -1,3 +1,3 @@
-# A simple Histroy API example
+# A simple History API example
 
-This repository contains a simple example that dmeonstrates the history API
+This repository contains a simple example that demonstrates the history API
